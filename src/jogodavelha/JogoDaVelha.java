@@ -27,7 +27,6 @@ public class JogoDaVelha extends JFrame {
     int jogadorVez = 1;
     
     
-    
      int Rodadas = 0;
     
     
