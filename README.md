@@ -1,4 +1,5 @@
-# JogoDaVelha
+<h1 align="center">
+  <p alt = "JogoDaVelha" title="#delicinha"  width="200px" />
 
 ### Jogo da Velha com a jogabilidade comum o Jogador que conseguir preencher os 3 dados numa linha seja horizontal ou vertical é vencedor
 
